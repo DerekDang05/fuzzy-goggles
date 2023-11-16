@@ -32,8 +32,7 @@ THEN the saved events persist
 
 ## Installation
 
-
-
+![Screenshot 2023-11-16 at 4 17 40 AM](https://github.com/DerekDang05/fuzzy-goggles/assets/142350017/c2ddbc86-a37a-4f04-b4de-8098958ffd5c)
 
 * Deployed link: https://DerekDang05.github.io/fuzzy-goggles
 * Public Github repo: https://github.com/DerekDang05/fuzzy-goggles
