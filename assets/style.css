@@ -2,7 +2,11 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
   }
-  
+  /* aligned the intro text to middle */
+  header {
+  text-align: center;
+  }
+
   textarea {
     background: transparent;
     border: none;
